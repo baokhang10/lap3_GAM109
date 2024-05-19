@@ -1,0 +1,7 @@
+D:\C2\Lab3_Gam109\bai2\bin\Debug\bai2.exe.config
+D:\C2\Lab3_Gam109\bai2\bin\Debug\bai2.exe
+D:\C2\Lab3_Gam109\bai2\bin\Debug\bai2.pdb
+D:\C2\Lab3_Gam109\bai2\obj\Debug\bai2.csproj.AssemblyReference.cache
+D:\C2\Lab3_Gam109\bai2\obj\Debug\bai2.csproj.CoreCompileInputs.cache
+D:\C2\Lab3_Gam109\bai2\obj\Debug\bai2.exe
+D:\C2\Lab3_Gam109\bai2\obj\Debug\bai2.pdb
